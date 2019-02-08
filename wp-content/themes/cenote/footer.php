@@ -26,7 +26,7 @@
 			</div>
 		</div><!-- .tg-footer-top -->
 
-		<div> Diana Sell <br> diana.sell@khk.ee <br> +372 51234567 </div>
+		<div> Diana Sell diana.sell@khk.ee +372 51234567 </div>
 		
 		<div class="tg-footer-bottom">
 			<div class="tg-container">

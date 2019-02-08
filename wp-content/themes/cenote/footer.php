@@ -26,6 +26,8 @@
 			</div>
 		</div><!-- .tg-footer-top -->
 
+		<div> Diana Sell diana.sell@khk.ee +372 51234567 </div>
+		
 		<div class="tg-footer-bottom">
 			<div class="tg-container">
 				<div class="tg-footer-bottom-container tg-flex-container">

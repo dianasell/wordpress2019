@@ -26,6 +26,7 @@
 			</div>
 		</div><!-- .tg-footer-top -->
 
+		<div> Diana Sell <br> diana.sell@khk.ee <br> +372 51234567 </div>
 		
 		<div class="tg-footer-bottom">
 			<div class="tg-container">
@@ -33,7 +34,7 @@
 					<div class="tg-footer-bottom-left">
 						<?php get_template_part( 'template-parts/footer/footer', 'info' ); ?>
 					</div><!-- .tg-footer-bottom-left -->
-					<div class="tg-footer-bottom-right"> 		<div> Diana Sell diana.sell@khk.ee +372 51234567 </div>
+					<div class="tg-footer-bottom-right">
 					</div><!-- .tg-footer-bottom-right-->
 				</div><!-- .tg-footer-bootom-container-->
 			</div>

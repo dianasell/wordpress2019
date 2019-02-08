@@ -1,0 +1,165 @@
+0000.000 (0) Opened log file at time: Fri, 08 Feb 2019 00:18:55 +0000 on http://dianasell.ikt.khk.ee/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.5 WP: 5.0.3 PHP: 7.2.14 (cgi-fcgi, Linux ikt.khk.ee 3.10.0-957.1.3.el7.x86_64 #1 SMP Thu Nov 29 14:49:43 UTC 2018 x86_64) MySQL: 5.6.41 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 30.9M | 32.3M) multisite: N openssl: OpenSSL 1.0.2q  20 Nov 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.066 (0) Free space on disk containing Updraft's temporary directory: 333089 MB
+0000.069 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.071 (0) Semaphore (fd, wp_options) being initialised
+0000.074 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.076 (0) Set semaphore last lock (fd) time to 2019-02-08 00:18:55
+0000.077 (0) Semaphore lock (fd) complete
+0000.081 (0) Backup run: resumption=0, nonce=7608c3fff934, file_nonce=7608c3fff934 begun at=1549585135 (0s ago), job type=backup
+0000.082 (0) Scheduling a resumption (1) after 300 seconds (1549585435) in case this run gets aborted
+0000.096 (0) Checking if we have a zip executable available
+0000.096 (0) Testing: /usr/bin/zip
+0000.104 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.105 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.106 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.107 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.108 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.115 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.116 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.127 (0) Working binary zip found: /usr/bin/zip
+0000.129 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.130 (0) Creation of backups of directories: beginning
+0000.132 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.239 (0) Total entities for the zip file: 276 directories, 1711 files (0 skipped as non-modified), 29.9 MB
+0000.243 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.246 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.250 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.254 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.258 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.258 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.6 MB, 1711 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.602 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: size is now: 3.70 MB
+0000.609 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 600 files added (on-disk size: 3745.7 KB)
+0000.614 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 700 files added (on-disk size: 3745.7 KB)
+0000.618 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 800 files added (on-disk size: 3745.7 KB)
+0000.622 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 900 files added (on-disk size: 3745.7 KB)
+0000.626 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 1000 files added (on-disk size: 3745.7 KB)
+0000.627 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.9 MB, 1711 files batched, 501 (1002) added so far); re-opening (prior size: 3745.7 KB)
+0001.479 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: size is now: 8.20 MB
+0001.487 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 1100 files added (on-disk size: 8430.4 KB)
+0001.492 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 1200 files added (on-disk size: 8430.4 KB)
+0001.497 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 1300 files added (on-disk size: 8430.4 KB)
+0001.501 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 1400 files added (on-disk size: 8430.4 KB)
+0001.505 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 1500 files added (on-disk size: 8430.4 KB)
+0001.506 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 1711 files batched, 501 (1503) added so far); re-opening (prior size: 8430.4 KB)
+0001.682 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 1600 files added (on-disk size: 9420.9 KB)
+0001.687 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip.tmp: 1700 files added (on-disk size: 9420.9 KB)
+0001.962 (0) Created plugins zip (0) - 9933.8 KB in 1.8 s (5623.3 KB/s) (sha1: f98e4419532cb304835dcd42bc893f545d3ad1e7, sha256: a450a3d6cbf823c2875bd6a5f4499d9e6d3538cf046c9cb7c8a2a47b8da98e0b)
+0001.964 (0) Beginning creation of dump of themes (split every: 400 MB)
+0002.047 (0) Total entities for the zip file: 119 directories, 612 files (0 skipped as non-modified), 9.5 MB
+0002.050 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.054 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.057 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.061 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.065 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.066 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.5 MB, 612 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.501 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip.tmp: size is now: 4.30 MB
+0002.509 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip.tmp: 600 files added (on-disk size: 4409.8 KB)
+0002.665 (0) Created themes zip (0) - 4728.3 KB in 0.6 s (7401.8 KB/s) (sha1: 7d944f59be75a8e80d26ce94a0938dd601313a46, sha256: 56b8339309252317d63350ef94c20e046266fb3ddd58e123f82c83d88f5eca12)
+0002.667 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0002.668 (0) Looking for candidates to backup in: /home/dianaselliktkhk/public_html/wordpress/wp-content/uploads
+0002.669 (0) finding files: 2019: adding to list (1)
+0002.670 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0002.742 (0) Total entities for the zip file: 2 directories, 129 files (0 skipped as non-modified), 8.6 MB
+0002.747 (0) Zip: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.825 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-uploads.zip.tmp: size is now: 8.70 MB
+0002.965 (0) Created uploads zip (0) - 8861 KB in 0.2 s (38463.4 KB/s) (sha1: 4a4fc1c7cc4d9461e940dde35add82ab53070532, sha256: ef753b115a964de5232870d0fb82d57211bb89c52218fa81be33af1267ce2992)
+0002.967 (0) Beginning backup of other directories found in the content directory (index: 0)
+0002.968 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0002.969 (0) Looking for candidates to backup in: /home/dianaselliktkhk/public_html/wordpress/wp-content
+0002.970 (0) finding files: themes: skipping: this is the themes directory
+0002.970 (0) finding files: index.php: adding to list (1)
+0002.971 (0) finding files: plugins: skipping: this is the plugins directory
+0002.971 (0) finding files: uploads: skipping: this is the uploads directory
+0002.972 (0) finding files: upgrade: skipping: excluded by options
+0002.973 (0) finding files: updraft: skipping: this is the updraft directory
+0003.041 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0003.051 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-others.zip.tmp: size is now: 0.00 MB
+0003.057 (0) Created others zip (0) - 0.2 KB in 0 s (9.9 KB/s) (sha1: fdf8a76f1999bcef63a340b70da7d819dbada75e, sha256: 31f05f51936c276ece39199e026a8a34141b71a0b0f8a1065c4e458d0d9c43c3)
+0003.062 (0) Saving backup status to database (elements: 8)
+0003.065 (0) Beginning creation of database dump (WordPress DB)
+0003.067 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0003.089 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1221 bytes total)
+0003.090 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0003.095 (0) Table wp_options: Total expected rows (approximate): 210
+0003.130 (0) Table wp_options: Total rows added: 206 in 0.03 seconds
+0003.131 (0) Table wp_options: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_options.table.gz - 124 KB)
+0003.134 (0) Table wp_users: Total expected rows (approximate): 1
+0003.135 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0003.136 (0) Table wp_users: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_users.table.gz - 0.5 KB)
+0003.138 (0) Table wp_usermeta: Total expected rows (approximate): 25
+0003.140 (0) Table wp_usermeta: Total rows added: 25 in 0.00 seconds
+0003.141 (0) Table wp_usermeta: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_usermeta.table.gz - 1.2 KB)
+0003.143 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0003.145 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0003.146 (0) Table wp_commentmeta: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0003.149 (0) Table wp_comments: Total expected rows (approximate): 2
+0003.152 (0) Table wp_comments: Total rows added: 2 in 0.00 seconds
+0003.153 (0) Table wp_comments: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_comments.table.gz - 0.9 KB)
+0003.157 (0) Table wp_links: Total expected rows (approximate): 0
+0003.159 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0003.160 (0) Table wp_links: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_links.table.gz - 0.4 KB)
+0003.164 (0) Table wp_postmeta: Total expected rows (approximate): 224
+0003.169 (0) Table wp_postmeta: Total rows added: 224 in 0.00 seconds
+0003.170 (0) Table wp_postmeta: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_postmeta.table.gz - 4.2 KB)
+0003.173 (0) Table wp_posts: Total expected rows (approximate): 107
+0003.183 (0) Table wp_posts: Total rows added: 107 in 0.01 seconds
+0003.184 (0) Table wp_posts: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_posts.table.gz - 16.7 KB)
+0003.187 (0) Table wp_term_relationships: Total expected rows (approximate): 23
+0003.190 (0) Table wp_term_relationships: Total rows added: 23 in 0.00 seconds
+0003.191 (0) Table wp_term_relationships: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0003.194 (0) Table wp_term_taxonomy: Total expected rows (approximate): 15
+0003.198 (0) Table wp_term_taxonomy: Total rows added: 15 in 0.00 seconds
+0003.199 (0) Table wp_term_taxonomy: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0003.203 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0003.205 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0003.206 (0) Table wp_termmeta: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_termmeta.table.gz - 0.4 KB)
+0003.209 (0) Table wp_terms: Total expected rows (approximate): 15
+0003.212 (0) Table wp_terms: Total rows added: 15 in 0.00 seconds
+0003.213 (0) Table wp_terms: finishing file (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_terms.table.gz - 0.6 KB)
+0003.216 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_options.table.gz (1/12): adding to final database dump
+0003.247 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_users.table.gz (2/12): adding to final database dump
+0003.248 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0003.249 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0003.250 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0003.251 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_links.table.gz (6/12): adding to final database dump
+0003.252 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0003.254 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0003.260 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0003.261 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0003.262 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0003.263 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0003.264 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db.gz: finished writing out complete database file (128 KB)
+0003.271 (0) Total database tables backed up: 12 (backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db.gz, size: 151514, sha256)
+0003.277 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0003.277 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0003.278 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0003.279 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-others.zip: others: This file has not yet been successfully uploaded: will queue
+0003.280 (0) backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db.gz: db: This file has not yet been successfully uploaded: will queue
+0003.280 (0) Saving backup history. Total backup size: 23.1 MB
+0003.283 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0003.285 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0003.286 (0) No remote despatch: user chose no remote backup service
+0003.287 (0) Recording as successfully uploaded: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-plugins.zip
+0003.289 (0) Recording as successfully uploaded: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-themes.zip
+0003.291 (0) Recording as successfully uploaded: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-uploads.zip
+0003.293 (0) Recording as successfully uploaded: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-others.zip
+0003.296 (0) Recording as successfully uploaded: backup_2019-02-08-0218_Diana_ppeleht_7608c3fff934-db.gz
+0003.300 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0003.301 (0) Number of backup sets in history: 1; groups (db): 1
+0003.302 (0) Examining (for databases) backup set with group_id=0, nonce=7608c3fff934, datestamp=1549585135 (Feb 08 2019 00:18:55)
+0003.303 (0) This backup set is the backup set just made, so will not be deleted.
+0003.303 (0) Number of backup sets in history: 1; groups (files): 1
+0003.304 (0) Examining (for files) backup set with nonce=7608c3fff934, datestamp=1549585135 (Feb 08 2019 00:18:55)
+0003.304 (0) This backup set is the backup set just made, so will not be deleted.
+0003.305 (0) This backup set is the backup set just made, so will not be deleted.
+0003.305 (0) This backup set is the backup set just made, so will not be deleted.
+0003.305 (0) This backup set is the backup set just made, so will not be deleted.
+0003.305 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0003.306 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0003.309 (0) Resume backup (7608c3fff934, 0): finish run
+0003.311 (0) Decremented the semaphore (fd) by 1
+0003.312 (0) Semaphore (fd) unlocked
+0003.313 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0003.316 (0) No email will/can be sent - the user has not configured an email address.
+0003.317 (0) The backup apparently succeeded and is now complete

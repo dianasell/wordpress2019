@@ -1,0 +1,7 @@
+[08-Feb-2019 03:19:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_day_link(), 1 passed in /home/dianaselliktkhk/public_html/wordpress/wp-content/themes/cenote/inc/compatibility/class-breadcrumb-trail.php on line 784 and exactly 3 expected in /home/dianaselliktkhk/public_html/wordpress/wp-includes/link-template.php:522
+Stack trace:
+#0 /home/dianaselliktkhk/public_html/wordpress/wp-content/themes/cenote/inc/compatibility/class-breadcrumb-trail.php(784): get_day_link('2019')
+#1 /home/dianaselliktkhk/public_html/wordpress/wp-content/themes/cenote/inc/compatibility/class-breadcrumb-trail.php(350): Breadcrumb_Trail->add_day_archive_items()
+#2 /home/dianaselliktkhk/public_html/wordpress/wp-content/themes/cenote/inc/compatibility/class-breadcrumb-trail.php(151): Breadcrumb_Trail->add_items()
+#3 /home/dianaselliktkhk/public_html/wordpress/wp-content/themes/cenote/inc/compatibility/class-breadcrumb-trail.php(39): Breadcrumb_Trail->__construct(Array)
+#4 /home/dianaselliktkhk/public_html/wordpress/wp-content/themes/cenote/t in /home/dianaselliktkhk/public_html/wordpress/wp-includes/link-template.php on line 522
